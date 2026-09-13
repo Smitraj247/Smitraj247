@@ -52,7 +52,7 @@ const yourName = {
 ---
 
 ## 📫 Connect with Me
-<a href="mailto:smitrajsinhmakvana@gmail.com">
+<a href="smitrajsinhmakvana@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" width="25" />
 </a>
 &nbsp;
