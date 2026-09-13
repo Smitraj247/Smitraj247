@@ -52,8 +52,8 @@ const yourName = {
 ---
 
 ## 📫 Connect with Me
-<a href="smitrajsinhmakvana@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="25" />
+<a href="mailto:smitrajsinhmakvana@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="25" alt="Gmail">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/smitrajmakvana/">
