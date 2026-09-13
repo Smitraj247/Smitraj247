@@ -6,14 +6,13 @@
 
 ```js
 const yourName = {
-  name       : "Your Full Name",
-  role       : "Full-Stack Developer Intern",
-  company    : "Your Company 🏢",
-  location   : "Your City, Gujarat, India 🇮🇳",
-  building   : "Admin Panel (RBAC System) 🔐",
+  name       : "Makvana Smitraj",
+  role       : "Full-Stack Developer ",
+  company    : "Krishang Technolab 🏢",
+  location   : "Ahmedabad, Gujarat, India 🇮🇳",
   learning   : ["Next.js 14", "Advanced Backend", "AI & RAG Systems"],
   openTo     : "MERN + AI · Open Source · Real-world Apps",
-  contact    : "you@example.com",
+  contact    : "smitrajsinhmakvana@gmail.com",
   strengths  : ["APIs", "Authentication", "RBAC", "Deployment"],
   funFact    : "Debugger by day, criminal by night 🕵️‍♂️💻",
 };
@@ -52,15 +51,8 @@ const yourName = {
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="165"/>
-
----
-
 ## 📫 Connect with Me
 
 <img src="https://skillicons.dev/icons?i=gmail,linkedin,github" />
 
-[you@example.com](mailto:you@example.com) · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/YOUR_USERNAME)
+[smitrajsinhmakvana@gmail.com](mailto:you@example.com) · [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/smitrajmakvana/)) · [GitHub](https://github.com/Smitraj247)
