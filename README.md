@@ -52,7 +52,14 @@ const yourName = {
 ---
 
 ## 📫 Connect with Me
-
-<img src="https://skillicons.dev/icons?i=gmail,linkedin,github" />
-
-[smitrajsinhmakvana@gmail.com](mailto:you@example.com) · [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/smitrajmakvana/)) · [GitHub](https://github.com/Smitraj247)
+<a href="mailto:smitrajsinhmakvana@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="25" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/smitrajmakvana/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="25" />
+</a>
+&nbsp;
+<a href="https://github.com/Smitraj247">
+  <img src="https://skillicons.dev/icons?i=github" width="25" />
+</a>
